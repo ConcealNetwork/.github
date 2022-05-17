@@ -1,5 +1,7 @@
 # Conceal Network
+
 ## Privacy-protected DeFi & Encrypted Communications
+
 ![image](https://github.com/ConcealNetwork/conceal-imagery/blob/master/logos/splash.png)
 
 Maintained by Conceal Developers, overseen by Conceal Team and driven by Conceal Community.
