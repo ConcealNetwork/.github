@@ -27,7 +27,7 @@ Conceal is open-source, community driven and truly decentralized. No one owns it
 -   Discord: <https://discord.gg/YbpHVSd>
 -   Twitter: <https://twitter.com/ConcealNetwork>
 -   Telegram Official (News Feed): <https://t.me/concealnetwork>
--   Telegram User Group (Chat Group): <https://t.me/concealnetworkusers>
+-   Telegram User Group (Group Chat): <https://t.me/concealnetworkusers>
 -   Medium: <https://medium.com/@ConcealNetwork>
 -   Reddit: <https://www.reddit.com/r/ConcealNetwork>
 -   Bitcoin Talk: <https://bitcointalk.org/index.php?topic=4515873>
