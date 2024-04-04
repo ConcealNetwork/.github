@@ -42,8 +42,8 @@ In a world where privacy is increasingly under threat, Conceal offers a beacon o
 -   Explorer: <https://explorer.conceal.network>
 -   Discord: <https://discord.gg/YbpHVSd>
 -   Twitter: <https://twitter.com/ConcealNetwork>
--   Telegram Official (News Feed): <https://t.me/concealnetwork>
--   Telegram User Group (Group Chat): <https://t.me/concealcommunity>
+-   Telegram Official (News Channel): <https://t.me/concealnetwork>
+-   Telegram Community (Group Chat): <https://t.me/concealcommunity>
 -   Medium: <https://medium.com/@ConcealNetwork>
 -   Reddit: <https://www.reddit.com/r/ConcealNetwork>
 -   Bitcoin Talk: <https://bitcointalk.org/index.php?topic=4515873>
