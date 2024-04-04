@@ -1,6 +1,6 @@
 # Conceal Network
 
-## Privacy-protected DeFi & Encrypted Communications
+### Privacy-protected DeFi & Encrypted Communications
 
 ![image](https://github.com/ConcealNetwork/conceal-imagery/blob/master/logos/splashpage.png)
 
@@ -8,18 +8,31 @@ Maintained by Conceal Developers, overseen by Conceal Team and driven by Conceal
 
 ## What's Conceal Network?
 
-Conceal Network is a POW (Proof of Work) peer-to-peer privacy-preserving network made for Private DeFi and Encrypted Communications. Conceal Network is a decentralized financial ecosystem which offers protocol-level private transactions, blockchain deposits (or what we call it “Cold Staking” in simple terms, it’s like normal staking but done on our POW (Proof of Work) chain instead of a POS chain), additionally Conceal Network offers on-chain & off-chain encrypted messages. These unique functionalities make it effortless for everyday users to manage their finances and communicate securely and privately.
+Conceal is a decentralized privacy-protected network designed for De-Fi and encrypted communications. It offers protocol-level private transactions, blockchain deposits and on-chain encrypted messages without a central authority.
 
-Conceal provides the ability for individuals to communicate and financially interact with each other in a totally anonymous manner. Two persons may exchange messages, conduct business, and transact funds without ever knowing the true name, or legal identity, of the other. Interactions over networks are untraceable, via cryptographic protocols.
+Conceal is censorship-resistant and accessible by anyone regardless of their geographic location or status. All interactions, transactions and messages are private and untraceable.
 
-₡CCX mimics the properties of cash. Nobody knows how or where you spend your folding cash. You go to the ATM, take out money and you can buy an ice-cream or that pretty old chair at the neighborhood yard sale and there is no record of it anywhere, unlike with a credit card. These powerful privacy-preserving abilities will act as a critical bulwark against the inevitable rise of Panopticon digital money. They may be our only hope. The end of cash means the end of free choice. That’s where Conceal comes into the picture.
+Conceal is powered by open-source code, community-driven and truly decentralized.
 
-A lot of people say there is no killer app for crypto. They’re wrong. We’ve figured out how to mimic cash in an environment that is entirely focused on privacy: The biggest feature of cash is that it’s really hard to track. In other words, anonymity is the main feature of cash. Only the two parties that conducted business know it happened. Conceal (₡CCX) is the death of blockchain analysis. Conceal brings back the true anonymity of cash.
-Conceal is open-source, community driven and truly decentralized. No one owns it, everyone can take part.
+No one owns Conceal, everyone can take part.
 
-₡CCX is the native coin of Conceal Network, and is based on the CryptoNote protocol.
+### VISION
+Conceal ($CCX) envisions a future where privacy is not just a luxury but a fundamental human right, especially in the digital realm. Inspired by the Cypherpunk Manifesto, Conceal is dedicated to building anonymous systems and defending privacy with cryptography. We believe in empowering individuals with tools and technologies that enable them to protect their privacy, resist surveillance, and maintain control over their personal data.
 
-Conceal network is building the first ever private decentralized ecosystem, come join us!
+### MISSION
+Our mission is to provide individuals with a privacy-focused cryptocurrency that embodies the principles of the Cypherpunk movement. By leveraging advanced cryptographic techniques, Conceal ensures that every transaction is private, secure, and censorship-resistant. We aim to create a decentralized financial ecosystem where users have full control over their funds and can transact freely without fear of surveillance or interference.
+
+### PRIVACY BY DESIGN
+Conceal's privacy design is rooted in the Cypherpunk ethos, focusing on anonymity, decentralization, and cryptographic privacy. With unique one-time addresses for each payment, Conceal ensures that transactions are unlinkable and untraceable, preserving user privacy in the digital age. Our use of ring signatures and cryptographic signatures further enhances privacy, making it virtually impossible for third parties to monitor or track transactions.
+
+### COMMUNITY & DEVELOPMENT
+At the heart of Conceal is a vibrant and passionate community of individuals dedicated to preserving privacy and advancing the Cypherpunk agenda. Our developers are committed to writing code that defends privacy and empowers users, following the Cypherpunk tradition of publishing open-source software for the benefit of all. We believe in decentralization not just as a technical concept but as a social movement, where individuals come together to reclaim their privacy and freedom.
+
+### DECENTRALIZATION & RESISTANCE
+Conceal is more than just a cryptocurrency; it's a symbol of resistance against centralized control and surveillance. With a decentralized network powered by blockchain technology, Conceal ensures that no single entity or authority can dictate the rules or monitor transactions. We stand firm in our commitment to decentralization and resistance, empowering individuals to take back control of their financial sovereignty.
+
+### JOIN THE PRIVACY REVOLUTION
+In a world where privacy is increasingly under threat, Conceal offers a beacon of hope for those who value freedom, anonymity, and privacy. Join us in our mission to build a more private and secure future, where individuals have the power to transact freely and privately, without fear of censorship or surveillance. Together, we can make privacy a reality in the digital age.
 
 ## Resources
 
@@ -30,8 +43,9 @@ Conceal network is building the first ever private decentralized ecosystem, come
 -   Discord: <https://discord.gg/YbpHVSd>
 -   Twitter: <https://twitter.com/ConcealNetwork>
 -   Telegram Official (News Feed): <https://t.me/concealnetwork>
--   Telegram User Group (Group Chat): <https://t.me/concealnetworkusers>
+-   Telegram User Group (Group Chat): <https://t.me/concealcommunity>
 -   Medium: <https://medium.com/@ConcealNetwork>
 -   Reddit: <https://www.reddit.com/r/ConcealNetwork>
 -   Bitcoin Talk: <https://bitcointalk.org/index.php?topic=4515873>
+-   Web Wallet: <https://wallet.conceal.network>   
 -   Paperwallet: <https://conceal.network/paperwallet>
